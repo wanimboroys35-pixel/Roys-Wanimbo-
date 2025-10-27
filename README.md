@@ -1,6 +1,5 @@
 # Roys-Wanimbo-
-I'm About 
-<!DOCTYPE html>
+
 <html lang="id">
 <body>
 
